@@ -1,0 +1,79 @@
+.why-we-are1 {
+  margin-block-start: 0;
+  margin-block-end: 0;
+}
+.why-div1,
+.why-we-are-the-best1 {
+  position: absolute;
+  font-family: Noto Sans;
+  text-align: center;
+  display: inline-block;
+}
+.why-we-are-the-best1 {
+  top: 36px;
+  left: 255px;
+  font-size: 30px;
+  line-height: 48px;
+  width: 507px;
+}
+.why-div1 {
+  top: 0;
+  left: 475px;
+  font-size: 29px;
+  letter-spacing: 0.1em;
+  line-height: 32px;
+  font-weight: 600;
+  color: #16fcd2;
+}
+.merklabs-totally-relates-to-yo1,
+.we-understand-your-needs1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  line-height: 48px;
+  display: inline-block;
+}
+.merklabs-totally-relates-to-yo1 {
+  top: 58px;
+  font-size: 16px;
+  line-height: 32px;
+  font-weight: 500;
+  color: rgba(255, 255, 255, 0.6);
+  width: 495px;
+}
+.faq-1-div1,
+.faq-2-div1 {
+  position: absolute;
+  top: 210px;
+  left: 0;
+  width: 495px;
+  height: 218px;
+}
+.faq-2-div1 {
+  left: 522px;
+  height: 186px;
+}
+.faq-3-div1,
+.faq-4-div1,
+.why-choose-us1 {
+  position: absolute;
+  top: 414px;
+  left: 0;
+  width: 495px;
+  height: 250px;
+}
+.faq-4-div1,
+.why-choose-us1 {
+  left: 522px;
+  height: 218px;
+}
+.why-choose-us1 {
+  top: 10572px;
+  left: 210px;
+  width: 1017px;
+  height: 664px;
+  text-align: left;
+  font-size: 20px;
+  color: #fff;
+  font-family: Montserrat;
+}

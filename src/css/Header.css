@@ -1,0 +1,91 @@
+.blog-div1,
+.home-div1,
+.projects-div3,
+.service-div1 {
+  position: absolute;
+  height: 50%;
+  width: 3.98%;
+  top: 26.97%;
+  right: 30.71%;
+  bottom: 23.03%;
+  left: 65.31%;
+  line-height: 24px;
+  font-weight: 600;
+  display: inline-block;
+  text-shadow: 0 4px 37px rgba(255, 255, 255, 0.25);
+}
+.home-div1,
+.projects-div3,
+.service-div1 {
+  width: 6.23%;
+  right: 39.01%;
+  left: 54.76%;
+}
+.home-div1,
+.projects-div3 {
+  width: 6.92%;
+  right: 49.48%;
+  left: 43.6%;
+}
+.home-div1 {
+  width: 5.19%;
+  right: 60.73%;
+  left: 34.08%;
+}
+.active-button-div1 {
+  position: relative;
+  line-height: 24px;
+  display: none;
+}
+.connect-wallet-butoon1 {
+  position: absolute;
+  top: 0;
+  left: 1022px;
+  border-radius: 29px;
+  background-color: rgba(255, 255, 255, 0.04);
+  width: 134px;
+  display: flex;
+  flex-direction: row;
+  padding: 12px;
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: center;
+  font-size: 14px;
+  font-family: Poppins;
+}
+.merka-div3 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  line-height: 24px;
+  font-weight: 600;
+  display: inline-block;
+}
+.header-div1,
+.logo-div1 {
+  position: absolute;
+  height: 50%;
+  width: 10.21%;
+  top: 26.97%;
+  right: 89.79%;
+  bottom: 23.03%;
+  left: 0;
+  font-size: 37px;
+  font-family: Poppins;
+}
+.header-div1 {
+  height: 5.07%;
+  width: 79.07%;
+  top: 3.59%;
+  right: 10.19%;
+  bottom: 91.33%;
+  left: 10.74%;
+  text-align: left;
+  font-size: 19px;
+  color: #fff;
+  font-family: Montserrat;
+}
